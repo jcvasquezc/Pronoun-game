@@ -1,0 +1,129 @@
+{
+  "interactionModel": {
+      "languageModel": {
+          "invocationName": "pronoun game",
+          "intents": [
+              {
+                  "name": "AMAZON.CancelIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.HelpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.PauseIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.StartOverIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.StopIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.RepeatIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AnswerIntent",
+                  "slots": [
+                      {
+                          "name": "Animal",
+                          "type": "AMAZON.Animal"
+                      }
+                  ],
+                  "samples": [
+                      "{Animal}",
+                      "tell me about {Animal}",
+                      "what do you know about {Animal}",
+                      "{Animal} information"
+                  ]
+              },
+              {
+                  "name": "QuizIntent",
+                  "slots": [],
+                  "samples": [
+                      "start a quiz",
+                      "start a quiz game",
+                      "and start a quiz",
+                      "and quiz me",
+                      "for a quiz",
+                      "start the pronoun game",
+                      "start a pronoun game", 
+                      "a quiz"
+                  ]
+              },
+              {
+                  "name": "AMAZON.MoreIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NavigateHomeIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NavigateSettingsIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NextIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.PageUpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.PageDownIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.PreviousIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollRightIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollDownIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollLeftIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.ScrollUpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.FallbackIntent",
+                  "samples": []
+              },
+              {
+                  "name": "Miss_Gorilla",
+                  "slots": [],
+                  "samples": [
+                      "Goriya",
+                      "Gollilla",
+                      "Korilla"
+                  ]
+              },
+              {
+                  "name": "Miss_Zebra",
+                  "slots": [],
+                  "samples": [
+                      "zeba",
+                      "zevra",
+                      "sebra"
+                  ]
+              }
+          ],
+          "types": []
+      }
+  }
+}
