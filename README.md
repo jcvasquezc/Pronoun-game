@@ -12,12 +12,19 @@ We developed a serious game designed for a primary purpose other than pure enter
 ### Sample question(s)
 
 C:	*Start a quiz*
+
 A:	*I am thinking about an herbivorous animal*
+
 C:	*An elephant?*
+
 A:	*No, the animal I am thinking is a primate.*
+
 C:	*…*
+
 A:	*…*
+
 C: 	*A korilla*
+
 A:	*Yes, that’s right! Actually, most people pronounce it*
 	*“Gorilla”. Gorillas live in Africa. … Their number has* 
 	*decreased in the last 20 years due to …*
